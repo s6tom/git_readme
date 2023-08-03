@@ -1,0 +1,47 @@
+## Pull Request
+
+### Description
+
+[Provide a brief description of the purpose and scope of this pull request.]
+
+### Changes Made
+
+- [List the main changes or features introduced by this pull request.]
+
+### Related Issues
+
+- [List any related GitHub issues that are being addressed by this pull request.]
+
+### Context
+
+[Explain the context or motivation behind these changes. What problem are you solving?]
+
+### Testing
+
+- [Describe the testing you've done, such as manual testing steps or automated tests you've added or updated.]
+
+### Checklist
+
+Before submitting this pull request, please make sure:
+
+- [ ] I have followed the project's coding guidelines and style.
+- [ ] I have tested the changes thoroughly and they work as intended.
+- [ ] I have added necessary documentation or updated existing documentation.
+- [ ] I have assigned or tagged relevant reviewers.
+- [ ] I understand that this pull request will be subject to review and possible changes before merging.
+To use this template:
+
+Copy the template above.
+In your GitHub repository, navigate to the /.github folder.
+If the folder doesn't already exist, you can create it.
+Inside the /.github folder, create a new file named PULL_REQUEST_TEMPLATE.md.
+Paste the copied template into this new file.
+Commit and push the changes to your repository.
+Now, when contributors create a new pull request, they will see this template, which will help them provide all the necessary information for a clear and effective PR submission. Remember, you can modify the template to match your project's specific needs and guidelines.
+
+
+
+
+
+
+Regenerate
